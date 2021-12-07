@@ -1,0 +1,15 @@
+C:\Users\Defind\source\repos\httpClient\httpClient\bin\Debug\netcoreapp3.1\httpClient.exe
+C:\Users\Defind\source\repos\httpClient\httpClient\bin\Debug\netcoreapp3.1\httpClient.deps.json
+C:\Users\Defind\source\repos\httpClient\httpClient\bin\Debug\netcoreapp3.1\httpClient.runtimeconfig.json
+C:\Users\Defind\source\repos\httpClient\httpClient\bin\Debug\netcoreapp3.1\httpClient.runtimeconfig.dev.json
+C:\Users\Defind\source\repos\httpClient\httpClient\bin\Debug\netcoreapp3.1\httpClient.dll
+C:\Users\Defind\source\repos\httpClient\httpClient\bin\Debug\netcoreapp3.1\httpClient.pdb
+C:\Users\Defind\source\repos\httpClient\httpClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Defind\source\repos\httpClient\httpClient\obj\Debug\netcoreapp3.1\httpClient.csprojAssemblyReference.cache
+C:\Users\Defind\source\repos\httpClient\httpClient\obj\Debug\netcoreapp3.1\httpClient.AssemblyInfoInputs.cache
+C:\Users\Defind\source\repos\httpClient\httpClient\obj\Debug\netcoreapp3.1\httpClient.AssemblyInfo.cs
+C:\Users\Defind\source\repos\httpClient\httpClient\obj\Debug\netcoreapp3.1\httpClient.csproj.CoreCompileInputs.cache
+C:\Users\Defind\source\repos\httpClient\httpClient\obj\Debug\netcoreapp3.1\httpClient.csproj.CopyComplete
+C:\Users\Defind\source\repos\httpClient\httpClient\obj\Debug\netcoreapp3.1\httpClient.dll
+C:\Users\Defind\source\repos\httpClient\httpClient\obj\Debug\netcoreapp3.1\httpClient.pdb
+C:\Users\Defind\source\repos\httpClient\httpClient\obj\Debug\netcoreapp3.1\httpClient.genruntimeconfig.cache

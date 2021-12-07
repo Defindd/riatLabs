@@ -1,0 +1,15 @@
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\bin\Debug\netcoreapp3.1\httpServerLab3.exe
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\bin\Debug\netcoreapp3.1\httpServerLab3.deps.json
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\bin\Debug\netcoreapp3.1\httpServerLab3.runtimeconfig.json
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\bin\Debug\netcoreapp3.1\httpServerLab3.runtimeconfig.dev.json
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\bin\Debug\netcoreapp3.1\httpServerLab3.dll
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\bin\Debug\netcoreapp3.1\httpServerLab3.pdb
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\obj\Debug\netcoreapp3.1\httpServerLab3.csprojAssemblyReference.cache
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\obj\Debug\netcoreapp3.1\httpServerLab3.AssemblyInfoInputs.cache
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\obj\Debug\netcoreapp3.1\httpServerLab3.AssemblyInfo.cs
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\obj\Debug\netcoreapp3.1\httpServerLab3.csproj.CoreCompileInputs.cache
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\obj\Debug\netcoreapp3.1\httpServerLab3.csproj.CopyComplete
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\obj\Debug\netcoreapp3.1\httpServerLab3.dll
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\obj\Debug\netcoreapp3.1\httpServerLab3.pdb
+C:\Users\Defind\source\repos\httpServerLab3\httpServerLab3\obj\Debug\netcoreapp3.1\httpServerLab3.genruntimeconfig.cache

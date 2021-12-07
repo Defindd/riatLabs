@@ -1,0 +1,15 @@
+C:\Users\Defind\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.exe
+C:\Users\Defind\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+C:\Users\Defind\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+C:\Users\Defind\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+C:\Users\Defind\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\Defind\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\Defind\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.csprojAssemblyReference.cache
+C:\Users\Defind\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+C:\Users\Defind\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+C:\Users\Defind\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Defind\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\Defind\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\Defind\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.genruntimeconfig.cache
+C:\Users\Defind\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Defind\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CopyComplete

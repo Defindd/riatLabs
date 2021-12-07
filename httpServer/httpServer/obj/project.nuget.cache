@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K7MOdf/s+2Hc6IrkTvzOg79b6UzcqNtdZhuNg0sFvWXvQePsh5Ly2aRfNzQAv2oAJgyfYfCD0mfTYp2yijP5nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Defind\\source\\repos\\httpServer\\httpServer\\httpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Defind\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
